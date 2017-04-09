@@ -1,2 +1,2 @@
-# SmallProgrammeAtC
-Μικρά προγράμματάκια σε γλώσσα C
+# SmallProgramme
+Μικρά προγράμματάκια 
